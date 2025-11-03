@@ -1,4 +1,4 @@
-Aspiring undergraduate student with a passion for data-management and problem-solving. Enjoys collaborating with peers and creating high-effort projects. Predominantly fluent in Python, as well as basic experience with other various coding languages. Eager to learn and develop new skills through experience and work opportunities. 
+Aspiring undergraduate student with a passion for data-management and problem-solving. Enjoys collaborating with peers and creating high-effort projects. Predominantly fluent in Python, with basic experience in other various coding languages. Eager to learn and develop new skills through experience and work opportunities. 
 
 - He/Him
 - Based in Waterloo, Ontario, Canada
